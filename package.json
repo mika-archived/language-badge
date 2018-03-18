@@ -1,0 +1,20 @@
+{
+  "name": "language-badge",
+  "version": "1.0.0",
+  "description": "Bootstrap-Style Badges of GitHub colors for all the programming languages.",
+  "main": "language-badge.css",
+  "style": "language-badge.css",
+  "files": [
+    "LICENSE",
+    "language-badge.css"
+  ],
+  "keywords": [
+    "GitHub language color",
+    "badge"
+  ],
+  "repository": "git@github.com:mika-f/language-badge.git",
+  "bugs": "https://github.com/mika-f/language-badge/issues",
+  "homepage": "https://mochizuki.moe/language-badge/",
+  "author": "Mikazuki Fuyuno <mikazuki_fuyuno@outlook.com>",
+  "license": "MIT"
+}
